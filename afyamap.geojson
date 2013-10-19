@@ -65,11 +65,8 @@
                     -6.826352
                 ]
             }
-        }
-        
-    ]
-}
-{
+        },
+        {
             "type": "Feature",
             "properties": {
                 "name": "Ebrahim Haji Hospital",
@@ -86,4 +83,6 @@
                 ]
             }
         }
+    ]
+}
 
